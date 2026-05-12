@@ -1,0 +1,21 @@
+Circuit Connections
+
+CD4511 -> 7 Segment
+
+a -> a
+b -> b
+c -> c
+d -> d
+e -> e
+f -> f
+g -> g
+
+BCD Inputs:
+A, B, C, D connected to switches
+
+VDD -> +5V
+VSS -> GND
+
+LT -> HIGH
+BI -> HIGH
+LE -> LOW

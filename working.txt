@@ -1,0 +1,14 @@
+Working Principle
+
+The CD4511 IC converts BCD input into signals required
+to drive a common cathode 7-segment display.
+
+BCD inputs:
+0000 = 0
+0001 = 1
+0010 = 2
+...
+1001 = 9
+
+The IC automatically lights the required segments
+to display the decimal number.
